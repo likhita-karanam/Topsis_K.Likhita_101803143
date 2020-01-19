@@ -9,7 +9,7 @@ setup(
   author = 'Kunal bajaj',                   # Type in your name
   author_email = 'kanchitbajaj8070@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/kanchitbajaj8070/Topsis_101703297_thapar.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/kanchitbajaj8070/Topsis_101703297_thapar/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/kanchitbajaj8070/Topsis_101703297_thapar/archive/v_02.tar.gz',    # I explain this later on
   keywords = ['Topsis', 'Order Preference Similarity to Ideal Solutions', ' Rank','UCS633'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',

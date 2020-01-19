@@ -1,8 +1,8 @@
 
 from distutils.core import setup
 setup(
-  name = 'MyLib,         # How you named your package folder (MyLib)
-  packages = ['MyLib'],   # Chose the same as "name"
+  name = 'Topsis_101703297_thapar',         # How you named your package folder (MyLib)
+  packages = ['Topsis_101703297_thapar'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Topsis implementation as a part of coursework of ucs633 course at thapar university',   # Give a short description about your library
